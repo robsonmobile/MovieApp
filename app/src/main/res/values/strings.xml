@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="title_activity_detail"> </string>
+    <string name="bookmark">Bookmark</string>
+    <string name="text_overview">Overview</string>
+    <string name="trailer">Trailer</string>
+    <string name="loading">Loading</string>
+    <string name="review">Review</string>
+    <string name="text_no_trailer">Belum ada trailer</string>
+    <string name="star">Star</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+</resources>
